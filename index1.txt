@@ -32,7 +32,7 @@ p {
  display: block;
  margin: 0 auto;
  text-shadow: 0 0 80px rgba(255,255,255,.30);
- background: url(https://mrkzgulfup.com/uploads/159834740623491.png) repeat-y;
+ background: url(https://raw.githubusercontent.com/ijoo/Index/master/merahputih.png) repeat-y;
 	  -webkit-background-clip: text;
 	  -webkit-text-fill-color: transparent;
 	  -webkit-animation: aitf 80s linear infinite;
