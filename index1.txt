@@ -1,0 +1,47 @@
+<!DOCTYBE html>
+<html>
+<head>
+<title>TouChed By iJoo</title>
+<link rel='stylesheet prefetch' href='https://fonts.google.com/css?family=Neuton|Oswald'>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+<meta charset="UTF-8">
+<meta name="robots" content="index, follow">
+<meta name="description" content="DefaCed By iJoo">
+<meta name="keywords" content="DefaCed By iJoo"/>
+<meta name="googlebot" content="index,follow"/>
+<style>
+body { font: 400 1em/1.5 "Neuton"; background: #000000; color: rgba(255,255,255,.7); text-align: center; margin: 0 }
+p {
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	display: inline-block;
+	border: 4px double rgba(255,255,255,.30);
+	border-width: 4px 0;
+	padding: 1.5em 0em;
+	position: absolute;
+	top: 18%;
+	left: 50%;
+	width: 40em;
+	margin: 0 0 0 -20em;
+  font-family: arial;
+ }
+ span {
+ font: 700 4em/1 "oswald" , sans-serif;
+ Letter-spacing: 0;
+ padding: .25em 0 .325em;
+ display: block;
+ margin: 0 auto;
+ text-shadow: 0 0 80px rgba(255,255,255,.30);
+ background: url(https://mrkzgulfup.com/uploads/159834740623491.png) repeat-y;
+	  -webkit-background-clip: text;
+	  -webkit-text-fill-color: transparent;
+	  -webkit-animation: aitf 80s linear infinite;
+	  -webkit-backface-visibility: hidden;
+
+ }
+ @-webkit-keyframes aitf {
+	0% { background-position: 0% 50%; }
+	100% { background-position: 100% 50%; }
+}
+</style>
+</head><body><p>[!] Security Tested [!]<span>INDONESIA Kiddies</span>&mdash; By iJoo &mdash;</p></body></html>
